@@ -18,7 +18,11 @@ h3 {
 h4 {    
     color: slateblue; 
     font-size: 20px;
-} 
+}  
+
+p { 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
 
 .tipo-oswald{
     font-family: "Oswald", sans-serif;
@@ -28,4 +32,8 @@ h4 {
 .tipo-roboto {
     font-family: "Roboto", sans-serif;
     
-  }
+  } 
+
+.texto-importante { 
+    text-align: justify;
+}
