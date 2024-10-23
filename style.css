@@ -1,0 +1,31 @@
+h1 {    
+    color: #8fbc8f; 
+    font-size: 35px; 
+    text-align: center;
+}
+
+h2 {
+    color: 	#00ced1; 
+    font-size: 30px; 
+
+} 
+
+h3 {    
+    color: 	palevioletred;  
+    font-size: 25px;
+} 
+
+h4 {    
+    color: slateblue; 
+    font-size: 20px;
+} 
+
+.tipo-oswald{
+    font-family: "Oswald", sans-serif;
+    
+  } 
+
+.tipo-roboto {
+    font-family: "Roboto", sans-serif;
+    
+  }
